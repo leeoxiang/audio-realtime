@@ -2227,3 +2227,4 @@ Commit on 2025-08-31 18:46:59: Update types
 Commit on 2025-08-31 22:19:30: Add utility function
 Commit on 2025-08-31 20:45:47: Fix linting issues
 Commit on 2025-09-01 16:10:44: Fix formatting
+Commit on 2025-09-01 20:51:22: Fix memory leak
